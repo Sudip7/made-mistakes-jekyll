@@ -30,7 +30,7 @@
     "gulp-empty": "^0.1.1",
     "gulp-filter": "^4.0.0",
     "gulp-gzip": "^1.1.0",
-    "gulp-htmlmin": "^2.0.0",
+    "gulp-htmlmin": "^5.0.1",
     "gulp-if": "^2.0.1",
     "gulp-imagemin": "^3.0.0",
     "gulp-newer": "^1.2.0",
