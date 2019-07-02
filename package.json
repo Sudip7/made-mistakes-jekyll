@@ -20,7 +20,7 @@
     "browser-sync": "^2.11.0",
     "concurrent-transform": "^1.0.0",
     "critical": "^0.7.3",
-    "del": "^2.2.0",
+    "del": "^5.0.0",
     "glob": "^7.0.6",
     "gulp": "git://github.com/gulpjs/gulp.git#4.0",
     "gulp-changed": "^2.0.0",
